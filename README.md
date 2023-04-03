@@ -1,2 +1,2 @@
-# prod_web2
-prod_web2
+# django-mvt-twitter-app
+Example of Django(MVT) web app
